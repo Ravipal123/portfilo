@@ -79,7 +79,7 @@ const Navbar = () => {
             </div>
             <div className="nav__buttons__group">
                 <button className="btn btn__primary">
-                    <a href="./RaviKumar_.pdf" download="./RaviKumar_.pdf">Download Resume<FaArrowUpRightFromSquare style={{marginLeft: "5px"}} /></a>
+                    <a href="./images/RaviKumar_.pdf" download="./images/RaviKumar_.pdf">Download Resume<FaArrowUpRightFromSquare style={{marginLeft: "5px"}} /></a>
                 </button>
                 <FaBarsStaggered
                     className="menu"

@@ -50,7 +50,7 @@ const Header = () => {
                             </p>
                         </div>
                         <div className="header__info__bottom">
-                            <button className="btn"><a href="./RaviKumar_.pdf" download="./RaviKumar_.pdf">Download CV</a></button>
+                            <button className="btn"><a href="./images/RaviKumar_.pdf" download="./images/RaviKumar_.pdf">Download CV</a></button>
                             <a href="mailto:ravisidd1122@gmail.com" className="btn">Email Me</a>
                         </div>
                     </div>
